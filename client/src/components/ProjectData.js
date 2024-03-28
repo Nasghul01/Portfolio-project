@@ -15,7 +15,8 @@ export default [
         role: "Full stack developer | UI Designer",
         description: "A restaurant website application for user to do reservation of the table in the restaurant. Also have feedback about the food or the restaurant and customer service by star and comment. ",
         link: "http://localhost/GitHub/ICT600/Login-Register/login.php",
-        pictures : ["/images/ulasan.png","/images/borang_tempahan.png"]
+        pictures : ["https://media.licdn.com/dms/image/D562DAQFWSdP4zYWUlg/profile-treasury-image-shrink_800_800/0/1711608907483?e=1712214000&v=beta&t=He5DPdEnKH1oGxzx7rxP3KLFrNpnwR44wViAPw5rLKg",
+        "https://media.licdn.com/dms/image/D562DAQFrsCRgl0Jj5A/profile-treasury-image-shrink_800_800/0/1711608882521?e=1712214000&v=beta&t=DeonAsARWH_T0HZMAu37_KCdu-Fc_Ib_EsqUNVXhBNg"]
         
     },
     {
@@ -25,7 +26,7 @@ export default [
         description: "Notes is important to write because sometimes we are forgot thing.This notes app provide some basic features such as taking note and delete note.",
         path: "",
         link: "http://localhost:5174/",
-        pictures : ["/images/Note-app-preview.png"]
+        pictures : ["https://media.licdn.com/dms/image/D562DAQFdWl6-qjiidg/profile-treasury-image-shrink_800_800/0/1710139157855?e=1712214000&v=beta&t=GrezCfoldXZmBrLTzQ28KDJuZkafsRzKRM9gbGZknRo"]
 
     },
     {
@@ -35,6 +36,6 @@ export default [
         description: "Tenzi is a fast-paced dice game where players need to roll their dice to match a chosen number.Quick reflexes and a bit of luck are key to winning this thrilling game of speed and strategy",
         path: "",
         link: "https://tenzies-dicegame-nas.netlify.app/",
-        pictures : ["/images/tenzies.png"]
+        pictures : ["https://media.licdn.com/dms/image/D562DAQHTG7LXykaJOA/profile-treasury-image-shrink_800_800/0/1711608519565?e=1712214000&v=beta&t=0KqWcwk_jadWQl1yCOBI926iUElRC1Y8sswFpdxMJuA"]
     }
 ]
