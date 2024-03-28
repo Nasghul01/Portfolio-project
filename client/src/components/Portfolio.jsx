@@ -1,6 +1,6 @@
 import React from "react";
-import Video1 from "./Video_FoundIt.mp4";
 import ProjectData from "./ProjectData.js"
+import YouTubeVideo from "./YoutubeVideo.jsx";
 
 export default function Portfolio () {
 
@@ -23,12 +23,14 @@ export default function Portfolio () {
                 <>
                     <div className="phone-frame">
                         <div className="screen">
-                            <video autoPlay controls className="Vid-FoundIt">
+                            {/* <video autoPlay controls className="Vid-FoundIt">
                             <source src={Video1} type="video/mp4"/>
                             Your browser does not support the video tag.
-                            </video>
+                            </video> */}
+                        <YouTubeVideo/>
                         </div>
                     </div>
+
 
                 </> :
                 <>
